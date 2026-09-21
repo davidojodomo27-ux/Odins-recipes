@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Pasta</title>
+  </head>
+  <body>
+
+    <h1>Pasta</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg" width="300" />
+
+    <h2>Description</h2>
+    <p>Pasta is a delicious Italian dish that can be made with many different sauces.</p>
+    <p>This recipe uses a simple tomato and beef sauce.</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Spaghetti pasta</li>
+      <li>Ground beef</li>
+      <li>Tomato sauce</li>
+      <li>Onion and garlic</li>
+      <li>Olive oil</li>
+      <li>Salt and pepper</li>
+      <li>Parmesan cheese</li>
+    </ul>
+
+    <
