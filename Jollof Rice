@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Jollof Rice</title>
+  </head>
+  <body>
+
+    <h1>Jollof Rice</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Ghanaian_jollof_rice.jpg" width="300" />
+
+    <h2>Description</h2>
+    <p>Jollof Rice is a popular Nigerian dish cooked with tomatoes, peppers and spices.</p>
+    <p>It is one of the most loved dishes in West Africa.</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 cups of rice</li>
+      <li>3 tomatoes</li>
+      <li>2 red peppers</li>
+      <li>1 onion</li>
+      <li>Chicken stock</li>
+      <li>Vegetable oil</li>
+      <li>Salt and seasoning</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+      <li>Blend tomatoes, peppers and onion together</li>
+      <li>Fry the blended mix in oil for 10 minutes</li>
+      <li>Add chicken stock and bring to a boil</li>
+      <li>Wash the rice and add to the pot</li>
+      <li>Add salt and seasoning to taste</li>
+      <li>Cover and cook on low heat until rice is done</li>
+      <li>Serve hot and enjoy</li>
+    </ol>
+
+    <a href="../index.html">Back to Home</a>
+
+  </body>
+</html>
