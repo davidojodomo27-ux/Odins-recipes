@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Lasagna</title>
+  </head>
+  <body>
+
+    <h1>Lasagna</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Lasagne_al_forno.jpg" width="300" />
+
+    <h2>Description</h2>
+    <p>Lasagna is a classic Italian dish made with layers of pasta, meat sauce, and cheese.</p>
+    <p>It is baked in the oven until golden and bubbly on top.</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Lasagna noodles</li>
+      <li>Ground beef</li>
+      <li>Tomato sauce</li>
+      <li>Mozzarella cheese</li>
+      <li>Ricotta cheese</li>
+      <li>Onion and garlic</li>
+      <li>Salt and pepper</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+      <li>Cook the lasagna noodles until soft</li>
+      <li>Brown the ground beef with onion and garlic</li>
+      <li>Add tomato sauce to the beef and simmer</li>
+      <li>Layer noodles, meat sauce and cheese in a baking dish</li>
+      <li>Repeat layers until dish is full</li>
+      <li>Bake at 180°C for 45 minutes</li>
+      <li>Let cool for 10 minutes then serve</li>
+    </ol>
+
+    <a href="../index.html">Back to Home</a>
+
+  </body>
+</html>
